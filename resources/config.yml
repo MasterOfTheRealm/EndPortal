@@ -1,0 +1,20 @@
+---
+#The Portal Block
+Portal-block: 119
+
+#Default World Name
+default-world-name: world
+
+#Coords Player Will Spawn In The OverWorld
+XCoord-Default: 0
+YCoord-Default: 70
+ZCoord-Default: 0
+
+#End World Name
+ender-world-name: ender
+
+#Coords Player Will Spawn In The End
+XCoord-Ender: 0
+YCoord-Ender: 70
+ZCoord-Ender: 0
+...
